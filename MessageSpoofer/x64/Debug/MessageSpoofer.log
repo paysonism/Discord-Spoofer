@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\1Projects\Discord Spoofer\DSpoofer\MessageSpoofer\MessageSpoofer\main.cpp(95,40): warning C4244: '=': conversion from 'SIZE_T' to 'int', possible loss of data
+D:\1Projects\Discord Spoofer\DSpoofer\MessageSpoofer\MessageSpoofer\main.cpp(166,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MessageSpoofer.vcxproj -> D:\1Projects\Discord Spoofer\DSpoofer\MessageSpoofer\x64\Debug\MessageSpoofer.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\1Projects\Discord Spoofer\DSpoofer\MessageSpoofer\MessageSpoofer\main.cpp(95,40): warning C4244: '=': conversion from 'SIZE_T' to 'int', possible loss of data
+D:\1Projects\Discord Spoofer\DSpoofer\MessageSpoofer\MessageSpoofer\main.cpp(162,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MessageSpoofer.vcxproj -> D:\1Projects\Discord Spoofer\DSpoofer\MessageSpoofer\x64\Release\MessageSpoofer.exe
